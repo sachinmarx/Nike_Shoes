@@ -1,0 +1,4 @@
+/* CSS (in your Tailwind CSS configuration or a separate CSS file) */
+.font-custom {
+  font-stretch: 25%; /* You can adjust this value based on your desired font width */
+}

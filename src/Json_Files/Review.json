@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "img": "public/Picture_Org/review01.jpeg",
+    "content": "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+    "star": "public/Picture_Org/Star.svg",
+    "point": "(4.5)",
+    "name": "Morich Brown"
+  },
+  {
+    "id": "1",
+    "img": "public/Picture_Org/review02.svg",
+    "content": "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+    "star": "public/Picture_Org/Star.svg",
+    "point": "(4.5)",
+    "name": "Lota Mongeskar"
+  }
+]
