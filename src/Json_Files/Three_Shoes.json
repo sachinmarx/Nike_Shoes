@@ -1,14 +1,14 @@
 [
   {
     "id": "1",
-    "img": "public/thumbnail-shoe1-d912672d.svg"
+    "img": "/thumbnail-shoe1-d912672d.svg"
   },
   {
     "id": "2",
-    "img": "public/thumbnail-shoe2-df94f425.svg"
+    "img": "/thumbnail-shoe2-df94f425.svg"
   },
   {
     "id": "3",
-    "img": "public/Picture_Org/shoe3.svg"
+    "img": "/Picture_Org/shoe3.svg"
   }
 ]

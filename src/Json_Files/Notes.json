@@ -1,19 +1,19 @@
 [
   {
     "id": "1",
-    "icon": "public/Picture_Org/truck.svg",
+    "icon": "/Picture_Org/truck.svg",
     "head": "Free shipping",
     "msg": "Enjoy seamless shopping with our complimentary shipping service."
   },
   {
     "id": "2",
-    "icon": "public/Picture_Org/sheild.svg",
+    "icon": "/Picture_Org/sheild.svg",
     "head": "Secure Payment",
     "msg": "Experience worry-free transactions with our secure payment options."
   },
   {
     "id": "3",
-    "icon": "public/Picture_Org/support.svg",
+    "icon": "/Picture_Org/support.svg",
     "head": "Secure Payment",
     "msg": "Our dedicated team is here to assist you every step of the way."
   }
