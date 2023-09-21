@@ -14,13 +14,13 @@ export default function Body_Pic() {
         className="flex ml-14 overflow-hidden absolute"
         style={{ bottom: -100 }}
       >
-        {jsonData.map((item) => (
+        {jsonData.map((item, index) => (
           <div key={item.id} onClick={() => handleImageClick(item.img)}>
             <button className="ml-5 focus:border-red-400 focus:border-2 focus:rounded-xl ">
               <img
                 className="bg-[url('public/Back_Small.svg')] bg-no-repeat bg-cover h-40 w-40 "
                 src={item.img}
-                alt={item.id}
+                alt={`img${index}`}
               />
             </button>
           </div>
