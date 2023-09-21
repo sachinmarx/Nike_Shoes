@@ -13,7 +13,7 @@ export default function Footer() {
     >
       <div>
         <Link className=" w-max block" href="/">
-          <img className="w-36 " src="public/Nike_White.svg" />
+          <img className="w-36 " src="/Nike_White.svg" />
         </Link>
         <p className="text-lg py-8 font-display font-thin w-96">
           Get shoes ready for the new term at your nearest Nike store. Find Your
@@ -22,7 +22,7 @@ export default function Footer() {
         <Social_media />
         <div className=" mt-24">
           <a href="#" className="text-lg font-display font-thin flex ">
-            <img src="public/copyright.svg" className="pr-2" />
+            <img src="/copyright.svg" className="pr-2" />
             Copyright. All Rights Reserved.
           </a>
         </div>

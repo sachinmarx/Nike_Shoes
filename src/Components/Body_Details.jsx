@@ -33,7 +33,7 @@ export default function Body_Details() {
       </div>
 
       <div className="ml-56">
-        <img src="public/Model_Shoe.svg" />
+        <img src="/Model_Shoe.svg" />
       </div>
     </div>
   );

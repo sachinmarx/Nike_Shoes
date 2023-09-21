@@ -5,7 +5,7 @@ export default function Body_Offer() {
   return (
     <div className="flex mt-24">
       <div>
-        <img className="w-[650px] ml-24  " src="public/offer00.svg" />
+        <img className="w-[650px] ml-24  " src="/offer00.svg" />
       </div>
       <div className="ml-12 w-[450px] mt-20 space-y-8">
         <p className="text-5xl font-display  font-bold">
