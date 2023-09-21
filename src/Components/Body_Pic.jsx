@@ -18,7 +18,7 @@ export default function Body_Pic() {
           <div key={item.id} onClick={() => handleImageClick(item.img)}>
             <button className="ml-5 focus:border-red-400 focus:border-2 focus:rounded-xl ">
               <img
-                className="bg-[url('public/Back_Small.svg')] bg-no-repeat bg-cover h-40 w-40 "
+                className="bg-[url('/Back_Small.svg')] bg-no-repeat bg-cover h-40 w-40 "
                 src={item.img}
                 alt={`img${index}`}
               />
@@ -26,8 +26,8 @@ export default function Body_Pic() {
           </div>
         ))}
       </div>
-      <div className="w-[790px] h-[800px] bg-[url('public/Back_Shoe.svg')]">
-        <img
+      <div className="w-[790px] h-[800px] bg-[url('/Back_Shoe.svg')]">
+        <img  
           className="w-[700px] h-[700px] pl-20 pt-24"
           src={selectedImage}
           alt={selectedImage}
