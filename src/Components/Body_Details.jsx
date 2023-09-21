@@ -26,7 +26,7 @@ export default function Body_Details() {
         </p>
         <Button
           variant="contained"
-          className="bg-[#FF6452] p-3 w-40 mt-10 rounded-s-full font-display  rounded-e-full"
+          className="bg-[#FF6452] p-3 w-40 mt-10 rounded-s-full btn rounded-e-full"
         >
           View details
         </Button>

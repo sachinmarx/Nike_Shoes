@@ -17,7 +17,7 @@ export default function Body_Login() {
           />
           <Button
             varient="contained"
-            className=" bg-[#FF6452] text-white rounded-s-full font-display  rounded-e-full mt-3 ml-1 w-32 h-14  "
+            className=" bg-[#FF6452] text-white rounded-s-full   rounded-e-full mt-3 ml-1 w-32 h-14  "
           >
             Sign Up
           </Button>

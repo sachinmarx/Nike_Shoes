@@ -36,7 +36,7 @@ export default function Body_first() {
         endIcon={
           <ArrowForwardOutlinedIcon className="bg-white text-[#FF6452] rounded-full " />
         }
-        className=" bg-[#FF6452] font-display text-lg rounded-s-full rounded-e-full mt-16 w-48 h-14 pl-5 "
+        className=" bg-[#FF6452] font-display text-lg btn rounded-s-full rounded-e-full mt-16 w-48 h-14 pl-5 "
       >
         Shop Now
       </Button>
